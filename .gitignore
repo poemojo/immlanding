@@ -1,0 +1,17 @@
+.project
+
+desktop.ini
+Desktop.ini
+Thumbs.db
+thumbs.db
+
+*.srv.php
+
+xampp/
+tmp/
+
+.phpintel/
+
+.bin/
+
+info.php
