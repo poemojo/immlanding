@@ -100,54 +100,6 @@
          </form>
       </div>
 
-<!--       <div id="mainCarousel" class="carousel slide" data-ride="carousel">
-         <div class="carousel-inner">
-            <div class="carousel-item active"
-             style='background-image: url("http://immcare.com/wp-content/uploads/2016/08/IMMCare-Runners.jpg"); background-size:auto; max-width: 100%; height:420px'>
-               <div class="d-flex align-items-center" style="max-width: 100%; height:420px">
-                  <h1 style="color:#fff; font-weight:bold; margin-left:25%;">
-                     <span style="font-size:1.375em">
-                        Getting you in, <br>
-                        and out, and <br>
-                        back on the road
-                     </span>
-                  </h1>
-               </div>
-            </div>
-            <div class="carousel-item"
-             style='background-image: url("http://immcare.com/wp-content/uploads/2016/08/QLESS-slider.png"); background-size:auto; max-width: 100%; height: 420px;'>
-               <div class="d-flex align-items-center" style="max-width: 100%; height:420px">
-                  <h1 style="color:#fff; font-weight:bold; margin-left:25%;">
-                     <span style="font-size:1.375em">
-                        Now offering<br>
-                        online check-in!
-                     </span>
-                  </h1>
-               </div>
-            </div>
-            <div class="carousel-item"
-             style='background-image: url("http://immcare.com/wp-content/uploads/2016/12/IMMCare-Physicals.png"); background-size:auto; max-width: 100%; height: 420px;'>
-               <div class="d-flex align-items-center" style="max-width: 100%; height:420px">
-                  <h1 style="color:#fff; font-weight:bold; margin-left:25%;">
-                     <span style="font-size:1.375em">
-                        Sports Physicals
-                        <br>Available 7 Days
-                        <br>a Week
-                     </span>
-                  </h1>
-               </div>
-            </div>
-         </div>
-         <a class="carousel-control-prev" style="background:#666; width:80px; height:64px; margin-top:178px" href="#mainCarousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-         </a>
-         <a class="carousel-control-next" style="background:#666; width:80px; height:64px; margin-top:178px" href="#mainCarousel" role="button" data-slide="prev">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-         </a>
-      </div> -->
-
    </div>
 
    <footer class="bg-light fixed-bottom">
