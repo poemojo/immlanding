@@ -275,6 +275,7 @@
    </div>
    <footer class="bg-light fixed-bottom" style="min-height:54px">
       <div style="min-height:54px;"class="container d-flex justify-content-between align-items-center flex-wrap">
+         <p style="line-height:1rem; font-size:0.75rem;">1-855-Walk-Ins | Open 7 Days A Week – No Appointment Necessary</p>
          <p style="line-height:1rem; font-size:0.75rem;">&copy;2016 Immediate Care Medical Walk-In | Site design Direct Development Design + Communications</p>
          <p class="ml-lg-0 mr-lg-0 ml-auto mr-auto">
             <button class="btn-social rounded-circle mr-1 ml-1"><span class="fab fa-facebook-f"></span></button>
